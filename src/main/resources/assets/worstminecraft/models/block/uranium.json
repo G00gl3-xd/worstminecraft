@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "worstminecraft:blocks/artworks-lo7yfkolw39pwdnp-g3k9yg-t500x500",
+    "up": "worstminecraft:blocks/artworks-lo7yfkolw39pwdnp-g3k9yg-t500x500",
+    "north": "worstminecraft:blocks/artworks-lo7yfkolw39pwdnp-g3k9yg-t500x500",
+    "east": "worstminecraft:blocks/artworks-lo7yfkolw39pwdnp-g3k9yg-t500x500",
+    "south": "worstminecraft:blocks/artworks-lo7yfkolw39pwdnp-g3k9yg-t500x500",
+    "west": "worstminecraft:blocks/artworks-lo7yfkolw39pwdnp-g3k9yg-t500x500",
+    "particle": "worstminecraft:blocks/artworks-lo7yfkolw39pwdnp-g3k9yg-t500x500"
+  }
+}

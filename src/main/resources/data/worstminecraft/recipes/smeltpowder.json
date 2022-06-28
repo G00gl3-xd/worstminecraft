@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 3,
+  "cookingtime": 250,
+  "ingredient": {
+    "item": "worstminecraft:amongus_fragment"
+  },
+  "result": "worstminecraft:amogpowder"
+}

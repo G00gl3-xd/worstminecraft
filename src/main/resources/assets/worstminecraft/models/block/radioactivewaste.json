@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "worstminecraft:blocks/radioactive_stone",
+    "up": "worstminecraft:blocks/radioactive_stone",
+    "north": "worstminecraft:blocks/radioactive_stone",
+    "east": "worstminecraft:blocks/radioactive_stone",
+    "south": "worstminecraft:blocks/radioactive_stone",
+    "west": "worstminecraft:blocks/radioactive_stone",
+    "particle": "worstminecraft:blocks/radioactive_stone"
+  }
+}

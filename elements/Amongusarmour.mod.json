@@ -1,0 +1,70 @@
+{
+  "_fv": 28,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "helmet",
+    "enableBody": true,
+    "textureBody": "body",
+    "enableLeggings": true,
+    "textureLeggings": "leggins",
+    "enableBoots": true,
+    "textureBoots": "boots_desus",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "sussyarmour",
+    "helmetName": "Amongus Helmet",
+    "bodyName": "Amongus Chestplate",
+    "leggingsName": "Amongus Leggings",
+    "bootsName": "Amongus Boots",
+    "helmetSpecialInfo": [
+      "Greatest armour"
+    ],
+    "bodySpecialInfo": [
+      "Greatest armour"
+    ],
+    "leggingsSpecialInfo": [
+      "Greatest armour"
+    ],
+    "bootsSpecialInfo": [
+      "Greatest armour"
+    ],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 44,
+    "damageValueHelmet": 11,
+    "damageValueBody": 11,
+    "damageValueLeggings": 11,
+    "damageValueBoots": 11,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "CUSTOM:equip_armour_sussy"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Amogusingot"
+      }
+    ]
+  }
+}

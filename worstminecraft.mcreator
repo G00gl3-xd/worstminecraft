@@ -1,0 +1,338 @@
+{
+  "mod_elements": [
+    {
+      "name": "AmongusFragment",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amongus_fragment"
+    },
+    {
+      "name": "Amogusingot",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amogusingot"
+    },
+    {
+      "name": "Amogusore",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amogusore"
+    },
+    {
+      "name": "Amongusarmour",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amongusarmour",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Craftingot",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftingot"
+    },
+    {
+      "name": "Crafthelmet",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafthelmet"
+    },
+    {
+      "name": "Craftchest",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftchest"
+    },
+    {
+      "name": "Craftleggins",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftleggins"
+    },
+    {
+      "name": "Craftboot",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftboot"
+    },
+    {
+      "name": "Amogpowder",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amogpowder"
+    },
+    {
+      "name": "Smeltpowder",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smeltpowder"
+    },
+    {
+      "name": "Gfuel",
+      "type": "fluid",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gfuel",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "Radioactivewaste",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "radioactivewaste"
+    },
+    {
+      "name": "Newdim",
+      "type": "dimension",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "newdim",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Keycraft",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "keycraft"
+    },
+    {
+      "name": "Uranium",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uranium"
+    },
+    {
+      "name": "Uraniumpowder",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uraniumpowder"
+    },
+    {
+      "name": "Uraniumfuel",
+      "type": "fuel",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uraniumfuel"
+    },
+    {
+      "name": "Uraniumpowdercraft",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uraniumpowdercraft"
+    },
+    {
+      "name": "Ash",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ash"
+    },
+    {
+      "name": "Deadplant",
+      "type": "plant",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deadplant"
+    },
+    {
+      "name": "Sussybaka",
+      "type": "livingentity",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sussybaka"
+    },
+    {
+      "name": "Suspotion",
+      "type": "potion",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "suspotion"
+    },
+    {
+      "name": "AmongusarmourbodyArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amongusarmourbody_armor_helmet_recipe"
+    },
+    {
+      "name": "AmongusarmourbodyArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amongusarmourbody_armor_body_recipe"
+    },
+    {
+      "name": "AmongusarmourbodyArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amongusarmourbody_armor_leggings_recipe"
+    },
+    {
+      "name": "AmongusarmourbodyArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amongusarmourbody_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "equip_armour_sussy",
+      "files": [
+        "y2mate.com-among-us-role-reveal-sound-effect-hd"
+      ],
+      "category": "neutral",
+      "subtitle": "Sussy noice"
+    },
+    {
+      "name": "ore_break",
+      "files": [
+        "y2mate.com-among-us-reporting-body-sound-effect-hd"
+      ],
+      "category": "neutral",
+      "subtitle": "Sus breaks"
+    },
+    {
+      "name": "g_fuelopen",
+      "files": [
+        "y2mate.com-soda-can-opening-sound-fx"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "amog_walk",
+      "files": [
+        "y2mate.com-among-us-walking-sound-effect"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "living",
+      "files": [
+        "y2mate.com_-_amogus"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "death_amog",
+      "files": [
+        "y2mate.com_-_among_us_death_sound_effect"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.living": "",
+      "item.worstminecraft.sussybaka_spawn_egg": "Sussybaka Spawn Egg",
+      "item.minecraft.potion.effect.suspotion": "Potion of Sus",
+      "entity.worstminecraft.sussybaka": "Sussybaka",
+      "item.worstminecraft.amongusarmour_chestplate": "Amongus Chestplate",
+      "block.worstminecraft.gfuel": "G-fuel",
+      "item.worstminecraft.amongusarmour_boots": "Amongus Boots",
+      "item.minecraft.lingering_potion.effect.suspotion": "Lingering Potion of Sus",
+      "subtitles.equip_armour_sussy": "Sussy noice",
+      "item.minecraft.splash_potion.effect.suspotion": "Splash Potion of Sus",
+      "item.worstminecraft.uraniumpowder": "Uraniumpowder",
+      "subtitles.ore_break": "Sus breaks",
+      "fluid.worstminecraft.gfuel": "G-fuel",
+      "block.worstminecraft.amogusore": "Amogusore",
+      "item.worstminecraft.amongusarmour_leggings": "Amongus Leggings",
+      "block.worstminecraft.uranium": "Uranium ore",
+      "block.worstminecraft.deadplant": "Deadplant",
+      "block.worstminecraft.radioactivewaste": "Radioactivewaste",
+      "item.worstminecraft.amongusarmour_helmet": "Amongus Helmet",
+      "item.minecraft.tipped_arrow.effect.suspotion": "Arrow of Sus",
+      "subtitles.death_amog": "",
+      "item.worstminecraft.newdim": "Radioactive gateway",
+      "item.worstminecraft.ash": "Ash",
+      "subtitles.g_fuelopen": "",
+      "subtitles.amog_walk": "",
+      "item.worstminecraft.gfuel_bucket": "G-fuel Bucket",
+      "item.worstminecraft.amogusingot": "Amogusingot",
+      "item.worstminecraft.amogpowder": "Amogpowder",
+      "item.worstminecraft.amongus_fragment": "Amongus Fragment"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "worstminecraft",
+    "modName": "Worstminecraft",
+    "version": "1.0.0",
+    "author": "anand, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.worstminecraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

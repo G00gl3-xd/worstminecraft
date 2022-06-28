@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "worstminecraft:blocks/340fd-16010530499727-800_1",
+    "up": "worstminecraft:blocks/340fd-16010530499727-800_1",
+    "north": "worstminecraft:blocks/340fd-16010530499727-800_1",
+    "east": "worstminecraft:blocks/340fd-16010530499727-800_1",
+    "south": "worstminecraft:blocks/340fd-16010530499727-800_1",
+    "west": "worstminecraft:blocks/340fd-16010530499727-800_1",
+    "particle": "worstminecraft:blocks/340fd-16010530499727-800_1"
+  }
+}

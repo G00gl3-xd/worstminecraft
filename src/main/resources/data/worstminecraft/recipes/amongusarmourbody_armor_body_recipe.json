@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "worstminecraft:amongusarmour_chestplate"
+    },
+    "2": {
+      "item": "worstminecraft:amongusarmour_chestplate"
+    },
+    "3": {
+      "item": "worstminecraft:amongusarmour_chestplate"
+    },
+    "4": {
+      "item": "worstminecraft:amongusarmour_chestplate"
+    },
+    "5": {
+      "item": "worstminecraft:amongusarmour_chestplate"
+    },
+    "6": {
+      "item": "worstminecraft:amongusarmour_chestplate"
+    },
+    "7": {
+      "item": "worstminecraft:amongusarmour_chestplate"
+    },
+    "8": {
+      "item": "worstminecraft:amongusarmour_chestplate"
+    }
+  },
+  "result": {
+    "item": "worstminecraft:amongusarmourbody_armor_chestplate",
+    "count": 1
+  }
+}

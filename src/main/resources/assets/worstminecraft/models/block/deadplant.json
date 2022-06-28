@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "worstminecraft:blocks/dead_flower",
+    "particle": "worstminecraft:blocks/dead_flower"
+  }
+}

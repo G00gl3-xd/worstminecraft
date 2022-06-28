@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "worstminecraft:amogpowder"
+    },
+    {
+      "item": "worstminecraft:amogpowder"
+    },
+    {
+      "item": "minecraft:lava_bucket"
+    },
+    {
+      "item": "worstminecraft:amogpowder"
+    },
+    {
+      "item": "worstminecraft:amogpowder"
+    }
+  ],
+  "result": {
+    "item": "worstminecraft:amogusingot",
+    "count": 1
+  }
+}

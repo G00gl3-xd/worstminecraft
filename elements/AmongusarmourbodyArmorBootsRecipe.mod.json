@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Amongusarmour.body"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Amongusarmour.body"
+      },
+      {
+        "value": "CUSTOM:Amongusarmour.body"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Amongusarmour.body"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AmongusarmourbodyArmor.boots"
+    },
+    "name": "amongusarmourbody_armor_boots_recipe",
+    "namespace": "mod"
+  }
+}

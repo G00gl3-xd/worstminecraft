@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "worstminecraft:amongusarmour_chestplate"
+    },
+    "2": {
+      "item": "worstminecraft:amongusarmour_chestplate"
+    },
+    "3": {
+      "item": "worstminecraft:amongusarmour_chestplate"
+    },
+    "5": {
+      "item": "worstminecraft:amongusarmour_chestplate"
+    }
+  },
+  "result": {
+    "item": "worstminecraft:amongusarmourbody_armor_boots",
+    "count": 1
+  }
+}

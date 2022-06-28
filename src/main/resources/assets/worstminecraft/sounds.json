@@ -1,0 +1,58 @@
+{
+  "equip_armour_sussy": {
+    "category": "neutral",
+    "subtitle": "subtitles.equip_armour_sussy",
+    "sounds": [
+      {
+        "name": "worstminecraft:y2mate.com-among-us-role-reveal-sound-effect-hd",
+        "stream": false
+      }
+    ]
+  },
+  "ore_break": {
+    "category": "neutral",
+    "subtitle": "subtitles.ore_break",
+    "sounds": [
+      {
+        "name": "worstminecraft:y2mate.com-among-us-reporting-body-sound-effect-hd",
+        "stream": false
+      }
+    ]
+  },
+  "g_fuelopen": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "worstminecraft:y2mate.com-soda-can-opening-sound-fx",
+        "stream": false
+      }
+    ]
+  },
+  "amog_walk": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "worstminecraft:y2mate.com-among-us-walking-sound-effect",
+        "stream": false
+      }
+    ]
+  },
+  "living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "worstminecraft:y2mate.com_-_amogus",
+        "stream": false
+      }
+    ]
+  },
+  "death_amog": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "worstminecraft:y2mate.com_-_among_us_death_sound_effect",
+        "stream": false
+      }
+    ]
+  }
+}
